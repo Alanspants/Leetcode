@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9347a4e9-db4a-42ca-87fc-2f60259a84b6" name="Default Changelist" comment="Simple_1576 finished">
-      <change afterPath="$PROJECT_DIR$/src/Simple_415/MySolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Simple_20/MySolution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +33,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.MySolution (3)">
+  <component name="RunManager" selected="Application.MySolution (4)">
     <configuration name="MySolution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Simple_13.MySolution" />
       <module name="Leetcode" />
@@ -73,6 +73,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MySolution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Simple_20.MySolution" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Simple_20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MySolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Simple_1576.MySolution" />
       <module name="Leetcode" />
@@ -88,6 +101,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MySolution (4)" />
         <item itemvalue="Application.MySolution (3)" />
         <item itemvalue="Application.MySolution (2)" />
         <item itemvalue="Application.MySolution (1)" />
@@ -129,25 +143,30 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="462" y="140" key="CommitChangelistDialog2/0.23.1680.1027/-123.-1057.1920.1057@0.23.1680.1027" timestamp="1603532373958" />
-    <state width="1638" height="280" key="GridCell.Tab.0.bottom" timestamp="1604412350812">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state width="1638" height="277" key="GridCell.Tab.0.bottom" timestamp="1605361565697">
+      <screen x="0" y="25" width="1680" height="1025" />
     </state>
     <state width="1638" height="280" key="GridCell.Tab.0.bottom/0.23.1680.1027/-123.-1057.1920.1057@0.23.1680.1027" timestamp="1604412350812" />
-    <state width="1638" height="280" key="GridCell.Tab.0.center" timestamp="1604412350812">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state width="1638" height="277" key="GridCell.Tab.0.bottom/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1605361565697" />
+    <state width="1638" height="277" key="GridCell.Tab.0.center" timestamp="1605361565696">
+      <screen x="0" y="25" width="1680" height="1025" />
     </state>
     <state width="1638" height="280" key="GridCell.Tab.0.center/0.23.1680.1027/-123.-1057.1920.1057@0.23.1680.1027" timestamp="1604412350812" />
-    <state width="1638" height="280" key="GridCell.Tab.0.left" timestamp="1604412350812">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state width="1638" height="277" key="GridCell.Tab.0.center/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1605361565696" />
+    <state width="1638" height="277" key="GridCell.Tab.0.left" timestamp="1605361565695">
+      <screen x="0" y="25" width="1680" height="1025" />
     </state>
     <state width="1638" height="280" key="GridCell.Tab.0.left/0.23.1680.1027/-123.-1057.1920.1057@0.23.1680.1027" timestamp="1604412350812" />
-    <state width="1638" height="280" key="GridCell.Tab.0.right" timestamp="1604412350812">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state width="1638" height="277" key="GridCell.Tab.0.left/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1605361565695" />
+    <state width="1638" height="277" key="GridCell.Tab.0.right" timestamp="1605361565697">
+      <screen x="0" y="25" width="1680" height="1025" />
     </state>
     <state width="1638" height="280" key="GridCell.Tab.0.right/0.23.1680.1027/-123.-1057.1920.1057@0.23.1680.1027" timestamp="1604412350812" />
-    <state x="494" y="371" key="com.intellij.ide.util.TipDialog" timestamp="1604392224334">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state width="1638" height="277" key="GridCell.Tab.0.right/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1605361565697" />
+    <state x="494" y="372" key="com.intellij.ide.util.TipDialog" timestamp="1605359906935">
+      <screen x="0" y="25" width="1680" height="1025" />
     </state>
     <state x="494" y="371" key="com.intellij.ide.util.TipDialog/0.23.1680.1027/-123.-1057.1920.1057@0.23.1680.1027" timestamp="1604392224334" />
+    <state x="494" y="372" key="com.intellij.ide.util.TipDialog/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1605359906935" />
   </component>
 </project>
