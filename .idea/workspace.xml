@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9347a4e9-db4a-42ca-87fc-2f60259a84b6" name="Default Changelist" comment="Simple_1576 finished">
-      <change afterPath="$PROJECT_DIR$/src/Simple_14/offSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Simple_67/mySolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort/bubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort/choiceSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort/insertSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Simple_67/mySolution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Simple_67/mySolution.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,13 +36,13 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.mySolution">
-    <configuration name="MySolution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Simple_38.MySolution" />
+  <component name="RunManager" selected="Application.insertSort">
+    <configuration name="bubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.bubbleSort" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Simple_38.*" />
+          <option name="PATTERN" value="sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -48,12 +50,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MySolution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Simple_415.MySolution" />
+    <configuration name="choiceSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.choiceSort" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Simple_415.*" />
+          <option name="PATTERN" value="sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MySolution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Simple_20.MySolution" />
+    <configuration name="insertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.insertSort" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Simple_20.*" />
+          <option name="PATTERN" value="sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.insertSort" />
+        <item itemvalue="Application.choiceSort" />
+        <item itemvalue="Application.bubbleSort" />
         <item itemvalue="Application.mySolution" />
         <item itemvalue="Application.offSolution" />
-        <item itemvalue="Application.MySolution (4)" />
-        <item itemvalue="Application.MySolution (3)" />
-        <item itemvalue="Application.MySolution (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -144,31 +146,31 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="462" y="140" key="CommitChangelistDialog2/0.23.1680.1027/-123.-1057.1920.1057@0.23.1680.1027" timestamp="1603532373958" />
-    <state width="1638" height="277" key="GridCell.Tab.0.bottom" timestamp="1605497520767">
+    <state width="1638" height="180" key="GridCell.Tab.0.bottom" timestamp="1605537964352">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
     <state width="1638" height="280" key="GridCell.Tab.0.bottom/0.23.1680.1027/-123.-1057.1920.1057@0.23.1680.1027" timestamp="1604412350812" />
-    <state width="1638" height="277" key="GridCell.Tab.0.bottom/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1605497520767" />
-    <state width="1638" height="277" key="GridCell.Tab.0.center" timestamp="1605497520766">
+    <state width="1638" height="180" key="GridCell.Tab.0.bottom/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1605537964352" />
+    <state width="1638" height="180" key="GridCell.Tab.0.center" timestamp="1605537964351">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
     <state width="1638" height="280" key="GridCell.Tab.0.center/0.23.1680.1027/-123.-1057.1920.1057@0.23.1680.1027" timestamp="1604412350812" />
-    <state width="1638" height="277" key="GridCell.Tab.0.center/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1605497520766" />
-    <state width="1638" height="277" key="GridCell.Tab.0.left" timestamp="1605497520765">
+    <state width="1638" height="180" key="GridCell.Tab.0.center/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1605537964351" />
+    <state width="1638" height="180" key="GridCell.Tab.0.left" timestamp="1605537964350">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
     <state width="1638" height="280" key="GridCell.Tab.0.left/0.23.1680.1027/-123.-1057.1920.1057@0.23.1680.1027" timestamp="1604412350812" />
-    <state width="1638" height="277" key="GridCell.Tab.0.left/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1605497520765" />
-    <state width="1638" height="277" key="GridCell.Tab.0.right" timestamp="1605497520766">
+    <state width="1638" height="180" key="GridCell.Tab.0.left/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1605537964350" />
+    <state width="1638" height="180" key="GridCell.Tab.0.right" timestamp="1605537964351">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
     <state width="1638" height="280" key="GridCell.Tab.0.right/0.23.1680.1027/-123.-1057.1920.1057@0.23.1680.1027" timestamp="1604412350812" />
-    <state width="1638" height="277" key="GridCell.Tab.0.right/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1605497520766" />
-    <state x="494" y="372" key="com.intellij.ide.util.TipDialog" timestamp="1605449741219">
+    <state width="1638" height="180" key="GridCell.Tab.0.right/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1605537964351" />
+    <state x="494" y="372" key="com.intellij.ide.util.TipDialog" timestamp="1605532270232">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
     <state x="494" y="371" key="com.intellij.ide.util.TipDialog/0.23.1680.1027/-123.-1057.1920.1057@0.23.1680.1027" timestamp="1604392224334" />
-    <state x="494" y="372" key="com.intellij.ide.util.TipDialog/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1605449741219" />
+    <state x="494" y="372" key="com.intellij.ide.util.TipDialog/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1605532270232" />
     <state width="600" height="424" key="javadoc.popup" timestamp="1605456357545">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
