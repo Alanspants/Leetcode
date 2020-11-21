@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9347a4e9-db4a-42ca-87fc-2f60259a84b6" name="Default Changelist" comment="Simple_1576 finished">
-      <change afterPath="$PROJECT_DIR$/src/Medium_3/mySolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/midToPrefix/midToPrefix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,13 +33,13 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.mySolution (2)">
-    <configuration name="insertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sort.insertSort" />
+  <component name="RunManager" selected="Application.midToPrefix">
+    <configuration name="kmp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KMP.kmp" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sort.*" />
+          <option name="PATTERN" value="KMP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -47,12 +47,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="kmp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KMP.kmp" />
+    <configuration name="midToPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="midToPrefix.midToPrefix" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="KMP.*" />
+          <option name="PATTERN" value="midToPrefix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.midToPrefix" />
         <item itemvalue="Application.mySolution (2)" />
         <item itemvalue="Application.mySolution" />
         <item itemvalue="Application.kmp" />
         <item itemvalue="Application.mySolution (1)" />
-        <item itemvalue="Application.insertSort" />
       </list>
     </recent_temporary>
   </component>
@@ -155,51 +155,51 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="462" y="140" key="CommitChangelistDialog2/0.23.1680.1027/-123.-1057.1920.1057@0.23.1680.1027" timestamp="1603532373958" />
-    <state width="1638" height="180" key="GridCell.Tab.0.bottom" timestamp="1605885322014">
+    <state width="1638" height="510" key="GridCell.Tab.0.bottom" timestamp="1605969617671">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
     <state width="1638" height="280" key="GridCell.Tab.0.bottom/0.23.1680.1027/-123.-1057.1920.1057@0.23.1680.1027" timestamp="1604412350812" />
-    <state width="1638" height="180" key="GridCell.Tab.0.bottom/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1605885322014" />
+    <state width="1638" height="510" key="GridCell.Tab.0.bottom/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1605969617671" />
     <state width="1638" height="180" key="GridCell.Tab.0.bottom/1680.25.1920.1055/0.25.1680.1025@1680.25.1920.1055" timestamp="1605879045087" />
-    <state width="1638" height="180" key="GridCell.Tab.0.center" timestamp="1605885322013">
+    <state width="1638" height="510" key="GridCell.Tab.0.center" timestamp="1605969617670">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
     <state width="1638" height="280" key="GridCell.Tab.0.center/0.23.1680.1027/-123.-1057.1920.1057@0.23.1680.1027" timestamp="1604412350812" />
-    <state width="1638" height="180" key="GridCell.Tab.0.center/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1605885322013" />
+    <state width="1638" height="510" key="GridCell.Tab.0.center/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1605969617670" />
     <state width="1638" height="180" key="GridCell.Tab.0.center/1680.25.1920.1055/0.25.1680.1025@1680.25.1920.1055" timestamp="1605879045086" />
-    <state width="1638" height="180" key="GridCell.Tab.0.left" timestamp="1605885322013">
+    <state width="1638" height="510" key="GridCell.Tab.0.left" timestamp="1605969617670">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
     <state width="1638" height="280" key="GridCell.Tab.0.left/0.23.1680.1027/-123.-1057.1920.1057@0.23.1680.1027" timestamp="1604412350812" />
-    <state width="1638" height="180" key="GridCell.Tab.0.left/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1605885322013" />
+    <state width="1638" height="510" key="GridCell.Tab.0.left/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1605969617670" />
     <state width="1638" height="180" key="GridCell.Tab.0.left/1680.25.1920.1055/0.25.1680.1025@1680.25.1920.1055" timestamp="1605879045086" />
-    <state width="1638" height="180" key="GridCell.Tab.0.right" timestamp="1605885322014">
+    <state width="1638" height="510" key="GridCell.Tab.0.right" timestamp="1605969617671">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
     <state width="1638" height="280" key="GridCell.Tab.0.right/0.23.1680.1027/-123.-1057.1920.1057@0.23.1680.1027" timestamp="1604412350812" />
-    <state width="1638" height="180" key="GridCell.Tab.0.right/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1605885322014" />
+    <state width="1638" height="510" key="GridCell.Tab.0.right/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1605969617671" />
     <state width="1638" height="180" key="GridCell.Tab.0.right/1680.25.1920.1055/0.25.1680.1025@1680.25.1920.1055" timestamp="1605879045087" />
-    <state width="1638" height="180" key="GridCell.Tab.1.bottom" timestamp="1605884281169">
+    <state width="1638" height="342" key="GridCell.Tab.1.bottom" timestamp="1605969287779">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1638" height="180" key="GridCell.Tab.1.bottom/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1605884281169" />
-    <state width="1638" height="180" key="GridCell.Tab.1.center" timestamp="1605884281168">
+    <state width="1638" height="342" key="GridCell.Tab.1.bottom/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1605969287779" />
+    <state width="1638" height="342" key="GridCell.Tab.1.center" timestamp="1605969287778">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1638" height="180" key="GridCell.Tab.1.center/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1605884281168" />
-    <state width="1638" height="180" key="GridCell.Tab.1.left" timestamp="1605884281168">
+    <state width="1638" height="342" key="GridCell.Tab.1.center/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1605969287778" />
+    <state width="1638" height="342" key="GridCell.Tab.1.left" timestamp="1605969287778">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1638" height="180" key="GridCell.Tab.1.left/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1605884281168" />
-    <state width="1638" height="180" key="GridCell.Tab.1.right" timestamp="1605884281169">
+    <state width="1638" height="342" key="GridCell.Tab.1.left/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1605969287778" />
+    <state width="1638" height="342" key="GridCell.Tab.1.right" timestamp="1605969287779">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1638" height="180" key="GridCell.Tab.1.right/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1605884281169" />
-    <state x="494" y="372" key="com.intellij.ide.util.TipDialog" timestamp="1605879950797">
+    <state width="1638" height="342" key="GridCell.Tab.1.right/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1605969287779" />
+    <state x="494" y="372" key="com.intellij.ide.util.TipDialog" timestamp="1605967267803">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
     <state x="494" y="371" key="com.intellij.ide.util.TipDialog/0.23.1680.1027/-123.-1057.1920.1057@0.23.1680.1027" timestamp="1604392224334" />
-    <state x="494" y="372" key="com.intellij.ide.util.TipDialog/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1605879950797" />
+    <state x="494" y="372" key="com.intellij.ide.util.TipDialog/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1605967267803" />
     <state width="600" height="424" key="javadoc.popup" timestamp="1605456357545">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
