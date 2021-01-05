@@ -38,11 +38,11 @@
   </component>
   <component name="RunManager" selected="Application.offSolution">
     <configuration name="kruthShellSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sort.kruthShellSort" />
+      <option name="MAIN_CLASS_NAME" value="helper.KMP.sort.kruthShellSort" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sort.*" />
+          <option name="PATTERN" value="helper.KMP.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -51,11 +51,11 @@
       </method>
     </configuration>
     <configuration name="midToPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="midToPrefix.midToPrefix" />
+      <option name="MAIN_CLASS_NAME" value="helper.KMP.midToPrefix.midToPrefix" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="midToPrefix.*" />
+          <option name="PATTERN" value="helper.KMP.midToPrefix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,11 +90,11 @@
       </method>
     </configuration>
     <configuration name="quickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sort.quickSort" />
+      <option name="MAIN_CLASS_NAME" value="helper.KMP.sort.quickSort" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sort.*" />
+          <option name="PATTERN" value="helper.KMP.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
