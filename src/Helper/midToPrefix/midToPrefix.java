@@ -1,4 +1,4 @@
-package midToPrefix;
+package Helper.midToPrefix;
 
 import java.util.Stack;
 

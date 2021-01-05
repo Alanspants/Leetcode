@@ -1,4 +1,4 @@
-package sort;
+package Helper.sort;
 
 public class choiceSort {
     public static void main(String[] args) {

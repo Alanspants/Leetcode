@@ -1,4 +1,4 @@
-package KMP;
+package Helper.KMP;
 
 public class kmp {
     public static void main(String[] args) {

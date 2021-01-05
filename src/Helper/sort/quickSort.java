@@ -1,4 +1,4 @@
-package sort;
+package Helper.sort;
 
 public class quickSort {
     private static void swap(int[] array, int i, int j) {
