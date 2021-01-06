@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9347a4e9-db4a-42ca-87fc-2f60259a84b6" name="Default Changelist" comment="Simple_1576 finished">
+      <change afterPath="$PROJECT_DIR$/src/DFS/全排序类/Medium_46.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +37,25 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.offSolution">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Medium_5" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Medium_46">
+    <configuration name="Medium_46" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DFS.全排序类.Medium_46" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DFS.全排序类.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="kruthShellSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="helper.KMP.sort.kruthShellSort" />
       <module name="Leetcode" />
@@ -56,19 +75,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="helper.KMP.midToPrefix.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="mySolution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Medium_3.mySolution" />
-      <module name="Leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Medium_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Medium_46" />
         <item itemvalue="Application.offSolution" />
         <item itemvalue="Application.quickSort" />
         <item itemvalue="Application.kruthShellSort" />
         <item itemvalue="Application.midToPrefix" />
-        <item itemvalue="Application.mySolution (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -124,7 +130,7 @@
       </list>
     </option>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="false" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -155,13 +161,33 @@
     <option name="LAST_COMMIT_MESSAGE" value="Simple_1576 finished" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="653" y="247" key="#com.intellij.ide.util.MemberChooser" timestamp="1609935293557">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="653" y="247" key="#com.intellij.ide.util.MemberChooser/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1609935293557" />
+    <state width="1638" height="216" key="GridCell.Tab.0.bottom" timestamp="1609935301926">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="216" key="GridCell.Tab.0.bottom/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1609935301926" />
+    <state width="1638" height="216" key="GridCell.Tab.0.center" timestamp="1609935301925">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="216" key="GridCell.Tab.0.center/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1609935301925" />
+    <state width="1638" height="216" key="GridCell.Tab.0.left" timestamp="1609935301924">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="216" key="GridCell.Tab.0.left/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1609935301924" />
+    <state width="1638" height="216" key="GridCell.Tab.0.right" timestamp="1609935301925">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="216" key="GridCell.Tab.0.right/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1609935301925" />
     <state x="349" y="173" key="SettingsEditor" timestamp="1607058373469">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
     <state x="349" y="173" key="SettingsEditor/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1607058373469" />
-    <state x="495" y="368" key="com.intellij.ide.util.TipDialog" timestamp="1607058361466">
+    <state x="495" y="368" key="com.intellij.ide.util.TipDialog" timestamp="1609934432169">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state x="495" y="368" key="com.intellij.ide.util.TipDialog/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1607058361466" />
+    <state x="495" y="368" key="com.intellij.ide.util.TipDialog/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1609934432169" />
   </component>
 </project>
