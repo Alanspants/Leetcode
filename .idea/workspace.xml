@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9347a4e9-db4a-42ca-87fc-2f60259a84b6" name="Default Changelist" comment="Simple_1576 finished">
-      <change afterPath="$PROJECT_DIR$/src/DFS/全排序类/Interview_0807.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DFS/全排序类/Hard_60.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DFS/全排序类/Interview_0808.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,9 +43,35 @@
       <recent name="Medium_5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Interview_0807">
+  <component name="RunManager" selected="Application.Hard_60">
+    <configuration name="Hard_60" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DFS.全排序类.Hard_60" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DFS.全排序类.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Interview_0807" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DFS.全排序类.Interview_0807" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DFS.全排序类.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Interview_0808" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DFS.全排序类.Interview_0808" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
@@ -82,39 +109,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="offSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Medium_820.offSolution" />
-      <module name="Leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Medium_820.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="quickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="helper.KMP.sort.quickSort" />
-      <module name="Leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="helper.KMP.sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Hard_60" />
+        <item itemvalue="Application.Interview_0808" />
         <item itemvalue="Application.Interview_0807" />
         <item itemvalue="Application.Medium_47" />
         <item itemvalue="Application.Medium_46" />
-        <item itemvalue="Application.offSolution" />
-        <item itemvalue="Application.quickSort" />
       </list>
     </recent_temporary>
   </component>
@@ -165,22 +166,22 @@
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
     <state x="653" y="247" key="#com.intellij.ide.util.MemberChooser/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1609935293557" />
-    <state width="1638" height="216" key="GridCell.Tab.0.bottom" timestamp="1610108953151">
+    <state width="1638" height="216" key="GridCell.Tab.0.bottom" timestamp="1610119719375">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1638" height="216" key="GridCell.Tab.0.bottom/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1610108953151" />
-    <state width="1638" height="216" key="GridCell.Tab.0.center" timestamp="1610108953150">
+    <state width="1638" height="216" key="GridCell.Tab.0.bottom/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1610119719375" />
+    <state width="1638" height="216" key="GridCell.Tab.0.center" timestamp="1610119719374">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1638" height="216" key="GridCell.Tab.0.center/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1610108953150" />
-    <state width="1638" height="216" key="GridCell.Tab.0.left" timestamp="1610108953149">
+    <state width="1638" height="216" key="GridCell.Tab.0.center/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1610119719374" />
+    <state width="1638" height="216" key="GridCell.Tab.0.left" timestamp="1610119719374">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1638" height="216" key="GridCell.Tab.0.left/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1610108953149" />
-    <state width="1638" height="216" key="GridCell.Tab.0.right" timestamp="1610108953151">
+    <state width="1638" height="216" key="GridCell.Tab.0.left/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1610119719374" />
+    <state width="1638" height="216" key="GridCell.Tab.0.right" timestamp="1610119719375">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1638" height="216" key="GridCell.Tab.0.right/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1610108953151" />
+    <state width="1638" height="216" key="GridCell.Tab.0.right/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1610119719375" />
     <state x="349" y="173" key="SettingsEditor" timestamp="1607058373469">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
