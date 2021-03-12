@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9347a4e9-db4a-42ca-87fc-2f60259a84b6" name="Default Changelist" comment="Simple_1576 finished">
-      <change afterPath="$PROJECT_DIR$/src/DFS/全排序类/Hard_60.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DFS/全排序类/Interview_0808.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DFS/子集类/Medium_78.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DFS/组合类/Medium_39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DFS/组合类/Medium_77.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Huawei/HJ9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,13 +45,13 @@
       <recent name="Medium_5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Hard_60">
-    <configuration name="Hard_60" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DFS.全排序类.Hard_60" />
+  <component name="RunManager" selected="Application.HJ9">
+    <configuration name="HJ8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Huawei.HJ8" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DFS.全排序类.*" />
+          <option name="PATTERN" value="Huawei.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Interview_0807" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DFS.全排序类.Interview_0807" />
+    <configuration name="HJ9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Huawei.HJ9" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DFS.全排序类.*" />
+          <option name="PATTERN" value="Huawei.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Interview_0808" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DFS.全排序类.Interview_0808" />
+    <configuration name="Medium_377" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DFS.组合类.Medium_377" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DFS.全排序类.*" />
+          <option name="PATTERN" value="DFS.组合类.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Medium_46" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DFS.全排序类.Medium_46" />
+    <configuration name="Medium_78" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DFS.子集类.Medium_78" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DFS.全排序类.*" />
+          <option name="PATTERN" value="DFS.子集类.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Medium_47" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DFS.全排序类.Medium_47" />
+    <configuration name="Medium_90" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DFS.子集类.Medium_90" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DFS.全排序类.*" />
+          <option name="PATTERN" value="DFS.子集类.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Hard_60" />
-        <item itemvalue="Application.Interview_0808" />
-        <item itemvalue="Application.Interview_0807" />
-        <item itemvalue="Application.Medium_47" />
-        <item itemvalue="Application.Medium_46" />
+        <item itemvalue="Application.HJ9" />
+        <item itemvalue="Application.HJ8" />
+        <item itemvalue="Application.Medium_90" />
+        <item itemvalue="Application.Medium_78" />
+        <item itemvalue="Application.Medium_377" />
       </list>
     </recent_temporary>
   </component>
@@ -166,29 +168,50 @@
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
     <state x="653" y="247" key="#com.intellij.ide.util.MemberChooser/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1609935293557" />
-    <state width="1638" height="216" key="GridCell.Tab.0.bottom" timestamp="1610119719375">
+    <state width="1021" height="216" key="GridCell.Tab.0.bottom" timestamp="1615544515933">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1638" height="216" key="GridCell.Tab.0.bottom/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1610119719375" />
-    <state width="1638" height="216" key="GridCell.Tab.0.center" timestamp="1610119719374">
+    <state width="1021" height="216" key="GridCell.Tab.0.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1615544515933" />
+    <state width="1638" height="216" key="GridCell.Tab.0.bottom/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1610274934155" />
+    <state width="1021" height="216" key="GridCell.Tab.0.center" timestamp="1615544515932">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1638" height="216" key="GridCell.Tab.0.center/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1610119719374" />
-    <state width="1638" height="216" key="GridCell.Tab.0.left" timestamp="1610119719374">
+    <state width="1021" height="216" key="GridCell.Tab.0.center/0.25.1680.1025@0.25.1680.1025" timestamp="1615544515932" />
+    <state width="1638" height="216" key="GridCell.Tab.0.center/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1610274934154" />
+    <state width="1021" height="216" key="GridCell.Tab.0.left" timestamp="1615544515931">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1638" height="216" key="GridCell.Tab.0.left/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1610119719374" />
-    <state width="1638" height="216" key="GridCell.Tab.0.right" timestamp="1610119719375">
+    <state width="1021" height="216" key="GridCell.Tab.0.left/0.25.1680.1025@0.25.1680.1025" timestamp="1615544515931" />
+    <state width="1638" height="216" key="GridCell.Tab.0.left/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1610274934153" />
+    <state width="1021" height="216" key="GridCell.Tab.0.right" timestamp="1615544515932">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state width="1638" height="216" key="GridCell.Tab.0.right/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1610119719375" />
+    <state width="1021" height="216" key="GridCell.Tab.0.right/0.25.1680.1025@0.25.1680.1025" timestamp="1615544515932" />
+    <state width="1638" height="216" key="GridCell.Tab.0.right/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1610274934154" />
+    <state width="798" height="342" key="GridCell.Tab.1.bottom" timestamp="1615107559958">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="798" height="342" key="GridCell.Tab.1.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1615107559958" />
+    <state width="798" height="342" key="GridCell.Tab.1.center" timestamp="1615107559958">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="798" height="342" key="GridCell.Tab.1.center/0.25.1680.1025@0.25.1680.1025" timestamp="1615107559958" />
+    <state width="798" height="342" key="GridCell.Tab.1.left" timestamp="1615107559958">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="798" height="342" key="GridCell.Tab.1.left/0.25.1680.1025@0.25.1680.1025" timestamp="1615107559958" />
+    <state width="798" height="342" key="GridCell.Tab.1.right" timestamp="1615107559958">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="798" height="342" key="GridCell.Tab.1.right/0.25.1680.1025@0.25.1680.1025" timestamp="1615107559958" />
     <state x="349" y="173" key="SettingsEditor" timestamp="1607058373469">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
     <state x="349" y="173" key="SettingsEditor/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1607058373469" />
-    <state x="495" y="368" key="com.intellij.ide.util.TipDialog" timestamp="1609934432169">
+    <state x="495" y="368" key="com.intellij.ide.util.TipDialog" timestamp="1615541326431">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
+    <state x="495" y="368" key="com.intellij.ide.util.TipDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1615541326431" />
     <state x="495" y="368" key="com.intellij.ide.util.TipDialog/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1609934432169" />
   </component>
 </project>
